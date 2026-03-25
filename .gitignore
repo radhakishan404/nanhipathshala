@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+.venv/
+.adk/
+.playwright-cli/
+node_modules/
+.next/
+dist/
+build/
+coverage/
+output/

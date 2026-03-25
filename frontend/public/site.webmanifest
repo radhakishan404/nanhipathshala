@@ -1,0 +1,16 @@
+{
+  "name": "NanhiPathshala",
+  "short_name": "NanhiPathshala",
+  "description": "Hindi-first AI voice tutor for children and mothers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6efe2",
+  "theme_color": "#0f6452",
+  "icons": [
+    {
+      "src": "/nanhipathshala-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

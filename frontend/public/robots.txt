@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nanhipathshala-web-766923141169.us-central1.run.app/sitemap.xml
