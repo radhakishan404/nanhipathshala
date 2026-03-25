@@ -4,13 +4,16 @@
 
 - Live web app: https://nanhipathshala-web-766923141169.us-central1.run.app
 - Live agent API: https://nanhipathshala-agent-766923141169.us-central1.run.app
+- GitHub repo: https://github.com/radhakishan404/nanhipathshala
 - Project README: [README.md](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/README.md)
+- License: [LICENSE](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/LICENSE)
 
 ## Files Ready
 
 - Submission deck: [NanhiPathshala-Submission-Deck.pptx](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/slides/NanhiPathshala-Submission-Deck.pptx)
 - Deck source: [nanhipathshala_deck.js](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/slides/nanhipathshala_deck.js)
 - Problem and solution summary: [submission-copy.md](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/submission-copy.md)
+- Paste-ready form answers: [hack2skill-submission.md](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/hack2skill-submission.md)
 - Demo flow: [demo-script.md](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/demo-script.md)
 - Agent fit explanation: [track-fit.md](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/track-fit.md)
 - Architecture note: [architecture.md](/Volumes/CodeDrive/OpenSourceGithub/nanhipathshala/docs/architecture.md)

@@ -128,6 +128,11 @@ export BACKEND_URL=https://your-backend-service-url
 - [`docs/track-fit.md`](docs/track-fit.md)
 - [`docs/architecture.md`](docs/architecture.md)
 - [`docs/submission-copy.md`](docs/submission-copy.md)
+- [`docs/hack2skill-submission.md`](docs/hack2skill-submission.md)
 - [`docs/demo-script.md`](docs/demo-script.md)
 - [`docs/submission-checklist.md`](docs/submission-checklist.md)
 - [`docs/slides/NanhiPathshala-Submission-Deck.pptx`](docs/slides/NanhiPathshala-Submission-Deck.pptx)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
